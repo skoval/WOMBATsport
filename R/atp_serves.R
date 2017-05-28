@@ -1,0 +1,26 @@
+#' Sample of ATP Serves
+#'
+#' This dataset contains polynomial functions for a sample of serves. The variables of the dataset are:
+#'
+#' \itemize{
+#'   \item serveid. An integer id for the serve.
+#'   \item x0. A numeric first coefficient for x-dimension.
+#'   \item x1. A numeric second coefficient for x-dimension.
+#'   \item x2. A numeric third coefficient for x-dimension.
+#'   \item x3. A numeric fourth coefficient for x-dimension.
+#'   \item y0. A numeric first coefficient for y-dimension.
+#'   \item y1. A numeric second coefficient for y-dimension.
+#'   \item y2. A numeric third coefficient for y-dimension.
+#'   \item y3. A numeric fourth coefficient for y-dimension.
+#'   \item z0. A numeric first coefficient for z-dimension.
+#'   \item z1. A numeric second coefficient for z-dimension.
+#'   \item z2. A numeric third coefficient for z-dimension.
+#'   \item z3. A numeric fourth coefficient for z-dimension.
+#'   \item start. A numeric of the seconds arc started.
+#'   \item duration. A numeric of the duration of the arc in seconds.
+#'   \item arc. A numeric indicating the arc (1 or 2) or the serve.
+#'}
+#'
+#' @format A data frame with 132 rows and 16 variables
+#' @name atp_serves
+NULL

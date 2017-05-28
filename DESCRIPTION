@@ -1,0 +1,14 @@
+Package: WOMBATsport
+Type: Package
+Title: Datasets for tutorial at 2017 WOMBAT data science conference
+Version: 1.0
+Date: 5–28-2017
+Author: Stephanie Kovalchik
+Maintainer: Stephanie Kovalchik <s.a.kovalchik@gmail.com>
+Description: This package contains datasets used as part of the tutorial at the
+    Sports Analytics tutorial at the 2017 WOMBAT data science conference.
+Depends: dplyr, 
+    R (>= 3.2.0)
+License: GPL
+Encoding: latin1
+RoxygenNote: 5.0.1
